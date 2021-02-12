@@ -8,10 +8,11 @@
 - [x] [Example Quickstart Github](https://github.com/Azure-Samples/cognitive-services-quickstart-code)
 - [x] [Sample Java Github](https://github.com/Azure-Samples/cognitive-services-java-sdk-samples/tree/master/Vision/ComputerVision) : shows Sample of best practice
 - [x] [Sample Python Github](https://github.com/Azure-Samples/cognitive-services-python-sdk-samples)
-    - [x] [install vision api](https://pypi.org/project/azure-cognitiveservices-vision-computervision/)
+    - [install vision api](https://pypi.org/project/azure-cognitiveservices-vision-computervision/)
         - `pip install azure-cognitiveservices-vision-computervision`
         - check pip environment
         - Virtual environment on intellij
           - add package on here
           ![img.png](img.png)
           - then run python by the virtual environment `/Users/hyun.kim/anaconda3/envs/scala_example/bin/python ocr.py`
+    - vision sample코드가 정확하지 않음. client 생성 코드는 문서 참조
